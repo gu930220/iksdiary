@@ -1,0 +1,23 @@
+{
+  "name": "iksdiary",
+  "version": "1.0.0",
+  "description": "day's record",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gu930220/iksdiary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gu930220/iksdiary/issues"
+  },
+  "homepage": "https://github.com/gu930220/iksdiary#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
