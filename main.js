@@ -27,7 +27,7 @@ function templateHTML(title,body,button){
   <section id="container">
       <header class="header">
           <h1 class="logo">
-              <a href="/">Ikmo's Diary</a>
+              <a href="/">Ikmo's Diary : 현재의 나를 알기 위한 이정표.</a>
           </h1> 
       </header>
       <section id="main_container">
